@@ -1,3 +1,24 @@
+<!-- HTML Meta Tags -->
+<title>Amazing website.</title>
+<meta name="description" content="This is an amazing website.">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://amazingwebsite.com">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Amazing website.">
+<meta property="og:description" content="This is an amazing website.">
+<meta property="og:image" content="">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="amazingwebsite.com">
+<meta property="twitter:url" content="https://amazingwebsite.com">
+<meta name="twitter:title" content="Amazing website.">
+<meta name="twitter:description" content="This is an amazing website.">
+<meta name="twitter:image" content="">
+
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+
 # YOU GOT TRICKED.
 
 Were you on autopilot?
