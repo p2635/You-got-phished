@@ -6,4 +6,4 @@ You are going to send them a message with a convincing link text. Example if you
 
 Message: "Hey check out this youtube video for the new Bleach series they just released!'.
 
-Link the 'Bleach series' link that to this page: https://p2635.github.io/You-got-phished/
+Copy this link 👉👉👉 https://p2635.github.io/You-got-phished/
