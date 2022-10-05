@@ -8,4 +8,4 @@ Message: "Hey check out this youtube video for the new Bleach series they just r
 
 Copy this link 👉👉👉 https://p2635.github.io/You-got-phished/
 
-Then modify it so it looks like this: "Hey check out this youtube video for the new [Bleach series](https://p2635.github.io/You-got-phished/) they just released!'.
+Then modify it so it looks like this: "Hey check out this youtube video for the new [Bleach series](https://p2635.github.io/You-got-phished/) they just released!'. Another example is this:  "Hey check out this youtube video for the new [https://www.youtube.com/watch?v=fzR82oXbjnY](https://p2635.github.io/You-got-phished/) they just released!'
